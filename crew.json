@@ -1,0 +1,20 @@
+{
+  "crew": {
+    "admins": {
+      "id_director": {
+        "name": "Данил",
+        "role": "Директор"
+      }
+    },
+    "workers": {
+      "id_mechanic": {
+        "name": "Александр",
+        "role": "Механик"
+      },
+      "id_electrician": {
+        "name": "Владимир",
+        "role": "Электрик"
+      }
+    }
+  }
+}
